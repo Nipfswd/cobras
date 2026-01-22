@@ -8,6 +8,7 @@
 #include "dictobject.h"
 #include "moduleobject.h"
 #include "objimpl.h"
+#include "errors.h"
 
 typedef struct {
 	OB_HEAD
